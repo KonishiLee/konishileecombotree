@@ -1,0 +1,42 @@
+{
+  "name": "konishileecombotree",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "KonishiLee"
+  },
+  "license": "ISC",
+  "_id": "konishileecombotree@1.0.1",
+  "_shasum": "1fdedb20eabcb77e3f95d4937c397f140a2f6172",
+  "_from": "konishileecombotree@1.0.1",
+  "_npmVersion": "2.14.12",
+  "_nodeVersion": "4.3.1",
+  "_npmUser": {
+    "name": "konishilee",
+    "email": "519807609@qq.com"
+  },
+  "dist": {
+    "shasum": "1fdedb20eabcb77e3f95d4937c397f140a2f6172",
+    "size": 4242,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/konishileecombotree/download/konishileecombotree-1.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "konishilee",
+      "email": "519807609@qq.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/konishileecombotree-1.0.1.tgz_1483426563626_0.9600582355633378"
+  },
+  "directories": {},
+  "publish_time": 1483426563841,
+  "_cnpm_publish_time": 1483426563841,
+  "_resolved": "https://registry.npm.taobao.org/konishileecombotree/download/konishileecombotree-1.0.1.tgz"
+}

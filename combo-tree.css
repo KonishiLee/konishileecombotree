@@ -1,0 +1,61 @@
+.comboTreeWrapper{
+  position: relative;
+  text-align: left !important;
+}
+
+.comboTreeInputWrapper{
+  position: relative;
+}
+
+.comboTreeArrowBtn {
+  position: absolute;
+  top: 10px;
+  width: 20px;
+  padding: 0;
+  margin: 0;
+  z-index: 10;
+}
+
+.comboTreeDropDownContainer {
+  display: none;
+  background: #fff;
+  border: 1px solid #aaa;
+  max-height: 250px;
+  overflow-y: auto;
+  position: absolute;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.comboTreeDropDownContainer ul{
+  padding: 0px;
+  margin: 0;
+}
+
+.comboTreeDropDownContainer li{
+  list-style-type: none;
+  padding-left: 15px;
+    cursor: pointer;
+}
+
+.comboTreeDropDownContainer li:hover{
+  background-color: #ddd;}
+.comboTreeDropDownContainer li:hover ul{
+  background-color: #fff;}
+.comboTreeDropDownContainer li span.comboTreeItemTitle.comboTreeItemHover{
+  background-color: #418EFF;
+  color: #fff;}
+
+span.comboTreeItemTitle{
+  display: block;
+}
+.comboTreeDropDownContainer label{
+    cursor: pointer;
+  width: 100%;
+    display: block;
+}
+.comboTreeDropDownContainer .comboTreeItemTitle input {
+  position: relative;
+    top: 2px;
+}
+
